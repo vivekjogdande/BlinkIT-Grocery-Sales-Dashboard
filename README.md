@@ -76,6 +76,12 @@ This analysis can help identify sales patterns, compare outlet performance, and 
 
 ## 👤 Author
 
-**BlinkIT Grocery Sales Dashboard Project**
+**Vivek Jogdande**
 
-Created using Microsoft Excel for grocery retail sales analysis.
+Data Science Student | Data Analytics Enthusiast
+
+**Project:** BlinkIT Grocery Sales Dashboard
+
+**Tools:** Microsoft Excel, PivotTables, PivotCharts, Data Visualization
+
+**GitHub:** [@vivekjogdande](https://github.com/vivekjogdande)s.
